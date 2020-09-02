@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949578119637",
+    "firebase_url": "https://gamer-jammer.firebaseio.com",
+    "project_id": "gamer-jammer",
+    "storage_bucket": "gamer-jammer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949578119637:android:1a0107f8dd99bb871b655c",
+        "android_client_info": {
+          "package_name": "com.matrix159.gamerjammer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949578119637-mmb1f742givj05kq5ejkbbelsp3jl6m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWI0lW1UhDFxBaP02IBhzgYA8TsTSGLX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949578119637-mmb1f742givj05kq5ejkbbelsp3jl6m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
